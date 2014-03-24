@@ -1,0 +1,11 @@
+name = JSON-LD
+description = Serializes entities using JSON-LD format.
+package = Core
+core = 8.x
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "9.x-dev"
+core = "9.x"
+project = "drupal"
+datestamp = "1380570426"
+

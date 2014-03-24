@@ -1,0 +1,13 @@
+name = Language
+description = Lets you configure a number of languages to be used on your website and provides language negotiation functionality.
+package = Core
+version = VERSION
+core = 8.x
+configure = admin/config/regional/language
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "9.x-dev"
+core = "9.x"
+project = "drupal"
+datestamp = "1380570426"
+

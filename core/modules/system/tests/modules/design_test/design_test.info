@@ -1,0 +1,13 @@
+name = Design test
+description = Support module for design, markup, JavaScript, and CSS testing.
+package = Testing
+version = VERSION
+core = 8.x
+hidden = TRUE
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "9.x-dev"
+core = "9.x"
+project = "drupal"
+datestamp = "1380570426"
+

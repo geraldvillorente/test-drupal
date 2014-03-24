@@ -1,0 +1,13 @@
+name = "XML-RPC Test"
+description = "Support module for XML-RPC tests according to the validator1 specification."
+package = Testing
+version = VERSION
+core = 8.x
+hidden = TRUE
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "9.x-dev"
+core = "9.x"
+project = "drupal"
+datestamp = "1380570426"
+
